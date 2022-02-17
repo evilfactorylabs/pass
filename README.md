@@ -12,7 +12,7 @@ The GPG signature used is `07EFAC00F86F1434` where the public key can be accesse
 ### Get password for evilfactorylabs Twitter
 
 ```bash
-pass get Twitter/evilfactorylabs | pbcopy
+pass Twitter/evilfactorylabs | pbcopy
 ```
 
 ### Get OTP code for evilfactorylabs Twitter
